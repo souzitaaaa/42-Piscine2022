@@ -49,5 +49,5 @@ PS: I know i tested my code with the name of an anime girl, I'mma a simp deal wi
 
 ![image](https://user-images.githubusercontent.com/117469751/204059959-598a20ec-3a0d-4930-959f-732d25b5b711.png)
 ![image](https://user-images.githubusercontent.com/117469751/204059964-60aa46e3-00da-43e1-a244-6d37a68e6f41.png)
-![image](https://user-images.githubusercontent.com/117469751/204059971-4b8543f8-5ed2-4df4-acaf-72647b2edded.png)
+![image](https://user-images.githubusercontent.com/117469751/204059971-4b8543f8-5ed2-4df4-acaf-72647b2edded.png) 
 ![image](https://user-images.githubusercontent.com/117469751/204059985-704dd81b-60cd-4713-929a-ec27eee63306.png)
