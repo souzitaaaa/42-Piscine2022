@@ -3,6 +3,8 @@ This is the work I did during my time attending the Piscine at 42Porto, feel fre
 
 Keep up the good work and good luck :)
 
+PS: I know i tested my code with the name of an anime girl, I'mma a simp deal with it
+
 ## Shell 00
 
 ![image](https://user-images.githubusercontent.com/117469751/204040173-f611bf79-431a-459e-8cf6-5450bbcea79d.png)
