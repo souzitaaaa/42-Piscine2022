@@ -1,5 +1,5 @@
 # 42-Piscine2022
-This is the work I did during my time attending the Piscine at 42Porto, feel free to check the code and try to understand it.
+This is the work I did during my time attending the Piscine at 42Porto
 
 Keep up the good work and good luck :)
 
